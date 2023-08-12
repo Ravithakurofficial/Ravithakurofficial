@@ -1,3 +1,4 @@
+![log0](https://github.com/Ravithakurofficial/Ravithakurofficial/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Kumar Thakur</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
