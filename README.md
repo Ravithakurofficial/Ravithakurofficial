@@ -12,7 +12,7 @@
   <img src="https://images.app.goo.gl/DgqHarhWEPLsuDPg9" alt="Coding Animation" width="300" height="200" />
 </p>
 
-- 🔭 I’m currently working on [ATM Interface](https://github.com/Ravithakurofficial/ATM-interface.git)
+- 🔭 I’m currently working as a team member of team jappy for hackaton
 
 - 🌱 I’m currently learning **Spring Boot, Angular, React, MongoDB**
 
