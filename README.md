@@ -1,51 +1,136 @@
-![log0](https://github.com/Ravithakurofficial/Ravithakurofficial/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ravithakurofficial/Ravithakurofficial/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Ravi Kumar Thakur Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ravi Kumar Thakur</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">Full-Stack Developer | Automation Test Engineer | Java & Selenium Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravithakurofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ravithakurofficial" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravithakurofficial" alt="ravithakurofficial" /></a> </p>
+## 👨‍💼 About Me
+- 🎯 Full Stack Developer & Automation Test Engineer  
+- 💼 Previously worked at **DRDO SSPL (Full Stack Developer)**  
+- 🔍 Currently working as **Associate Analyst at GlobalLogic**  
+- 🧪 Skilled in full-stack development & automation frameworks  
+- 📍 Based in **New Delhi, India**  
+- 📬 Email: **thakurravikumar400@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/ravikum04002081" target="blank"><img src="https://img.shields.io/twitter/follow/ravikum04002081?logo=twitter&style=for-the-badge" alt="ravikum04002081" /></a> </p>
+---
 
-<p align="right">
-  <img src="https://images.app.goo.gl/DgqHarhWEPLsuDPg9" alt="Coding Animation" width="300" height="200" />
+## 🧑‍💻 Experience
+
+### **GlobalLogic – Associate Analyst**  
+**Gurugram | August 2025 – Present**  
+- Performed defect analysis & validated components using **Java 17, Selenium WebDriver 4, TestNG/JUnit & SQL**  
+- Designed **100+ manual test cases** using TestRail & Gherkin BDD  
+- Executed CI/CD test suites with **Jenkins, Maven/Gradle, GitHub**, improving coverage & reducing defect leakage  
+
+---
+
+### **DRDO SSPL – Full Stack Developer**  
+**Delhi | August 2024 – November 2024**  
+- Developed a **geospatial analytics platform** using Java 17, Spring Boot 3.x, Thymeleaf, MySQL  
+- Built a pipeline for **real-time hardware data ingestion & processing**  
+- Improved map visualization & rendering by **15%**  
+
+---
+
+## 🛠️ Skills (with Logos)
+
+### **Programming Languages**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
 </p>
 
-- 🔭 I’m currently working as a team member of team jappy for hackaton
+### **Frameworks & Libraries**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" width="50"/>
+</p>
 
-- 🌱 I’m currently learning **Spring Boot, Angular, React, MongoDB**
+### **Automation Tools**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Gradle_logo.svg" width="50"/>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://ravithakurofficial.github.io/](https://ravithakurofficial.github.io/)
+### **Databases**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50"/>
+</p>
 
-- 💬 Ask me about **Java, Python, Servlet, Data Structure, Latest Tech**
+---
 
-- 📫 How to reach me **thakurravikumar400@gmail.com**
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravithakurofficial" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📊 Daily Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravithakurofficial&theme=github" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 **Automation Testing ERP + CRM**  
+Enterprise-grade Selenium + Cucumber automation framework with:  
+- Reusable actions  
+- Centralized WebDriver  
+- Config management  
+- Extent Report + TestRail integration  
+
+🔗 **Repo:**  
+https://github.com/Ravithakurofficial/AutomationTestOfAIERPCRM  
+
+---
+
+### 🔹 **E-Commerce Automation Testing**  
+Test automation suite using Java, Selenium, TestNG, and POM design pattern.  
+
+🔗 **Repo:**  
+https://github.com/Ravithakurofficial/E-commereceAutomationTesting  
+
+---
+
+## 🎓 Education
+**B.Tech – Information Technology**  
+Guru Tegh Bahadur Institute of Technology Delhi (2022–2025)  
+**CGPA: 8.6**
+
+**Diploma – Information Technology**  
+Ambedkar Institute of Technology Delhi (2018–2021)  
+**66%**
+
+---
+
+## 🏆 Achievements
+- Cleared **HackWithInfy 2024**  
+- **Top 20** in **TCS HackQuest**
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/ravikum04002081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravikum04002081" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravithakurofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravithakurofficial" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/thakurravikumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/thakurravikumar1" height="30" width="40" /></a>
-<a href="https://leetcode.com/ravilookus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/ravilookus/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ravithakurofficial"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="https://github.com/Ravithakurofficial"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/></a>
+  <a href="https://leetcode.com/u/ravilookus/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+  <a href="mailto:thakurravikumar400@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-    
-  </div>
-  <div>
-    <a href="https://github.com/Ravithakurofficial/Ravithakurofficial/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" target="_blank" rel="noreferrer">
-      <img src="https://images.app.goo.gl/DgqHarhWEPLsuDPg9" alt="Coding Animation" width="300" height="200" />
-    </a>
-  </div>
-</div>
-
-</p>
-
-<p style="clear:both;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravithakurofficial&show_icons=true&locale=en&layout=compact" alt="ravithakurofficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravithakurofficial&show_icons=true&locale=en" alt="ravithakurofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravithakurofficial&" alt="ravithakurofficial" /></p>
+---
