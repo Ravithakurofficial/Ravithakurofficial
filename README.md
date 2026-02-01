@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ravithakurofficial/Ravithakurofficial/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Ravi Kumar Thakur Banner"/>
+  <img src="https://github.com/Ravithakurofficial/Ravithakurofficial/blob/main/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png" alt="Ravi Kumar Thakur Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravi Kumar Thakur</h1>
